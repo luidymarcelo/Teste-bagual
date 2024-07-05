@@ -13,7 +13,7 @@ background-color: pink;
 
 .apresentacao {
     display: flex;
-    padding: 5% 250%;
+    padding: 5% 2570%;
     align-items: center;
     justify-content: space-around;
 }
@@ -23,7 +23,7 @@ background-color: pink;
     display: flex;
     align-items: normal;
     justify-content: space-between;
-    width: 100;
+    width: 1000;
     gap: 40px;
 }
 
